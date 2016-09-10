@@ -147,6 +147,7 @@ Algorithms
  * ✓ __s3__ (OneCoin)
  * ✓ __x11__ (Darkcoin [DRK], Hirocoin, Limecoin, ...)
  * ✓ __x13__ (Sherlockcoin, [ACE], [B2B], [GRC], [XHC], ...)
+ * ✓ __x13evo__ (Machinecoin, [MAC])
  * ✓ __x14__ (X14, Webcoin [WEB])
  * ✓ __x15__ (RadianceCoin [RCE])
  * ✓ __zr5__ (Ziftrcoin [ZRC])
